@@ -1,0 +1,1 @@
+Employee management system is basically a web based app designed for storing and managing employees information records in oneplace. it is a unified platform where we can see all the required description unlike visiting multiple sites .
